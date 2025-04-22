@@ -1,6 +1,6 @@
 print('Create adder.py')
 
-def test(a, b):
+def add(a, b):
 	return (a+b)
 
-print(test(1, 2))
+print(add(1, 2))
